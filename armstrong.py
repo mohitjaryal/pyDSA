@@ -13,4 +13,4 @@ while(num>0):
 if(total == n ):
     print('Yes it is an Armstrong number')
 else:
-    print("No it's not an armstrong number ")
+    print("No it's not an Armstrong number ")
