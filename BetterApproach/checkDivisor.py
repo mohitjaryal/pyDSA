@@ -1,0 +1,1 @@
+# Display divisor of number using 'Better Approach'
