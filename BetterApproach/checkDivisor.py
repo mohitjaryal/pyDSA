@@ -6,3 +6,5 @@ result = [] # Empty list
 for i in range(n // 2):
     if(n % i == 0):
         result.append(i)
+result.append(num)
+print('Divisors :',result)
