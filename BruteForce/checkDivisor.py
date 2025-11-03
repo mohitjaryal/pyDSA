@@ -9,4 +9,4 @@ for i in range(1,num+1):
         result.append(i) # adding divisor to the result
 
     
-print('Divisor are :',result)
+print('Divisors are :',result)
