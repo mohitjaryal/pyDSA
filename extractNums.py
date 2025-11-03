@@ -4,4 +4,5 @@ n = int(input('Enter number :'))
 
 num = n
 
-while 
+# Main logic
+while (num > 0):
