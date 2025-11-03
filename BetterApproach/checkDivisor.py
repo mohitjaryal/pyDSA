@@ -1,5 +1,7 @@
 # Display divisor of number using 'Better Approach'
 
+# Better approach
+
 num = int(input('Enter a number :'))
 n = num
 result = [] # Empty list
