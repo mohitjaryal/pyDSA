@@ -8,3 +8,5 @@ for i in range(0,len(nums)):
         freq_map[nums[i]] += 1
     else:
         freq_map[nums[i]] = 1
+
+print(freq_map)
