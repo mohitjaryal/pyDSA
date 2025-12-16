@@ -3,12 +3,7 @@ n = int(input('Enter a number :'))
 num = n
 total = 0
 
-ln = len(str(n))
-
-while(num>0):x
-    ld = num % 10
-    total = total + (ld ** ln) # adding last digit to the total
-    num //= 10
+ln
 
 if(total == n ):
     print('Yes it is an Armstrong number')
