@@ -1,4 +1,5 @@
 # Extract numbers
+
 # User input
 n = int(input('Enter number :'))
 print('You entered :',n)
