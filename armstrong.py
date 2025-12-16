@@ -5,7 +5,7 @@ total = 0
 
 ln = len(str(n))
 
-while(num>0):
+while(num>0):x
     ld = num % 10
     total = total + (ld ** ln) # adding last digit to the total
     num //= 10
